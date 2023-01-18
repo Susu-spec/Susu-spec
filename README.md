@@ -1,11 +1,9 @@
 <div align="center">
-</br>
-# Hello there 👋
+</br> Hello there 👋
 
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
-<div align="center">
-# About ME 💬 :
+<div align="center"> About ME 💬 :
 <p align="center">🌱 I’m currently learning about software development at ALX Africa.
 <br>
 <p align="center"> 🔭 I’m currently working on becoming a software engineer :)
