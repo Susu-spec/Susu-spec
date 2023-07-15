@@ -4,7 +4,7 @@
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 <div align="center"> About ME 💬 :
-<p align="center">🌱 I’m currently learning to automate the boring stuff with Python :3
+<p align="center">🌱 I’m currently learning to build stuff :3
 <br>
 <p align="center"> 🔭 I’m currently working on becoming a software engineer :)
 <br>
