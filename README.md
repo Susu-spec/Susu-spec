@@ -1,6 +1,5 @@
 <div align="center">
-</br> Hello there 👋
-
+</br> Hii👋
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 <div align="center"> About ME 💬 :
