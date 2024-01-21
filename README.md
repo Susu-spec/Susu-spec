@@ -3,9 +3,9 @@
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 <div align="center"> About ME 💬 :
-<p align="center">🌱 I'm using frontend tools
+<p align="center">🌱 Exploring frontend development tools
 <br>
-<p align="center"> 🔭 I’m currently working on my Javascript skills 
+<p align="center"> 🔭 Currently working on my Javascript skills
 <br>
 <p align="center"> 👯I’m looking for intern frontend roles :)
  <br>
