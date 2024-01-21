@@ -3,11 +3,11 @@
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 <div align="center"> About ME 💬 :
-<p align="center">🌱 I’m learning to build stuff so I can build stuff I like to see :3
+<p align="center">🌱 I'm using frontend tools
 <br>
-<p align="center"> 🔭 I’m currently working on my Javascript and CSS skills :)
+<p align="center"> 🔭 I’m currently working on my Javascript skills 
 <br>
-<p align="center"> 👯I’m looking for intern/junior frontend roles :)
+<p align="center"> 👯I’m looking for intern frontend roles :)
  <br>
  
   📫 How to reach me 👇
