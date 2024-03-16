@@ -1,15 +1,15 @@
 <div align="center">
 </br> Hi I'm Susu👋
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
-<div align="center"> About ME 💬 :
+<br>
+ 
+ <img src="/images/Developer.gif" alt="developer gif"  height="45px">
+
+ <div align="center"> About ME 💬 :
 <p align="center">🌱 Exploring Frontend Development space
 <br>
  
 <p align="center"> 🔭 I'm exploring Creative Coding, Music and everything that involves Sensory Input.
 <br>
- 
-<p align="center"> 👯I’m either reading books, or getting into some physical activity.
- <br>
  
  <blockquote>Learning, applying and looking for frontend intern roles</blockquote>
  
