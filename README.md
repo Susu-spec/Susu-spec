@@ -5,10 +5,10 @@
  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 
  <div align="center"> About ME 💬 :
-<p align="center">🌱 Exploring Frontend Development space
+<p align="center">🌱 Exploring the Frontend Development space
 <br>
  
-<p align="center"> 🔭 I'm exploring Creative Coding, Music and everything that involves Sensory Input.
+<p align="center"> 🔭 I'm currently exploring Creative Coding, Music and everything that involves Sensory Input.
 <br>
  
  <blockquote>Learning, applying and looking for frontend intern roles</blockquote>
