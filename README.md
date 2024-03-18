@@ -4,8 +4,7 @@ Hi I'm Susu👋</div>
  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 <p align="center">🌱 I'm exploring the Frontend Development space </p> 
 <br>
-<p align="center"> 🔭 I'm currently invested in Creative Coding, Music, and everything that involves Sensory Input.
- <blockquote align="center">Learning, applying and looking for frontend intern roles</blockquote>
+<p align="center"> 🔭 I'm currently invested in Creative Coding.
  </p>
  <div><p align="center"> 📫 How to reach me 👇</p></div>
 
